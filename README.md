@@ -61,7 +61,6 @@ Agora terá explicação dos métodos utilizados para controle do aplicativo. &n
 
 &nbsp;
 ##### Método de resetar
-Agora será mostrado os widgets do flutter que foram utilizados para compor essa simples aplicação:
 
     void _clear() {
     setState(() {
